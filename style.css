@@ -234,7 +234,7 @@ section .container .contactForm .formbox .inputbox input[type="submit"] {
 }
 
 section .container .contactForm .formbox .inputbox input[type="submit"]:hover {
-  background: #ee122a;
+  background: rgb(170, 158, 158);
 }
 
 .note {
